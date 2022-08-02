@@ -1,2 +1,3 @@
 # responsive-timeline-website
-A responsive timeline project of which I went above and beyond
+A responsive timeline website to showcase the mobile-first design and responsiveness. 
+Try resizing the browser.
